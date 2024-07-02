@@ -25,7 +25,7 @@ To get a local copy up and running, follow these simple steps.
 
 ```bash
 git clone https://github.com/AbidHasanRafi/ECE-Club-of-HSTU
-cd meditech-ai
+cd ECE-Club-of-HSTU
 ```
 
 ### Install Dependencies
