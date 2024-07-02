@@ -19,6 +19,13 @@ GitHub Repository: [ECE Club of HSTU Repository](https://github.com/AbidHasanRaf
 - **Confidential and Secure**: Robust security measures to protect user information.
 - **Community and Connection**: Supportive online community for shared experiences and mutual support.
 
+## Technologies
+
+- **Tailwind**
+- **React**
+- **Node**
+- **MongoDB**
+
 ## Installation
 
 To get a local copy up and running, follow these simple steps.
